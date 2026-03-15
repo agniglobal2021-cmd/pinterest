@@ -174,7 +174,7 @@
     "Last_Crop_Used": "0",
     "Times_Published": "0",
     "Publishing": false,
-    "Paused": false,
+    "Paused": true,
     "Status": "active"
   }
 ]
