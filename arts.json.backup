@@ -56,7 +56,8 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Publishing": true
   },
   {
     "ART_ID": "JadeGardens",
