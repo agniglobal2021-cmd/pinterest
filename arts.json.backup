@@ -12,7 +12,8 @@
     "Crops_Total": "10",
     "Times_Published": "0",
     "Status": "active",
-    "Publishing": true
+    "Publishing": false,
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "Nuit",
@@ -27,7 +28,8 @@
     "Crops_Total": "10",
     "Times_Published": "0",
     "Status": "active",
-    "Publishing": false
+    "Publishing": false,
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "KushKeeper",
@@ -42,7 +44,8 @@
     "Crops_Total": "10",
     "Times_Published": "0",
     "Status": "active",
-    "Publishing": false
+    "Publishing": false,
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "CelestialNoir",
@@ -57,7 +60,8 @@
     "Crops_Total": "10",
     "Times_Published": "0",
     "Status": "active",
-    "Publishing": true
+    "Publishing": false,
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "JadeGardens",
@@ -71,7 +75,8 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "TheHermit",
@@ -85,7 +90,8 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "ArcanumMagnum",
@@ -99,7 +105,8 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "Fusion",
@@ -113,7 +120,8 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "OrientalSands",
@@ -127,7 +135,8 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "HeartbreakLand",
@@ -141,7 +150,8 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   },
   {
     "ART_ID": "DarkNightOfTheSoul",
@@ -155,6 +165,7 @@
     "Last_Crop_Used": "0",
     "Crops_Total": "10",
     "Times_Published": "0",
-    "Status": "active"
+    "Status": "active",
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
   }
 ]
