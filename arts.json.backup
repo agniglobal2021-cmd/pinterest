@@ -100,7 +100,7 @@
     "Crops_Total": "10",
     "Last_Crop_Used": "0",
     "Times_Published": "0",
-    "Publishing": false,
+    "Publishing": true,
     "Paused": false,
     "Status": "active",
     "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
