@@ -120,12 +120,13 @@
     "SEO_Phrases": "tarot occult illustration | esoteric dark art print | The Hermit surreal fine art | witchy illustration NOEASY | purple occult art print",
     "Crop_Descriptions": "",
     "Crops_Total": "10",
-    "Last_Crop_Used": "0",
-    "Times_Published": "0",
-    "Publishing": true,
+    "Last_Crop_Used": "1",
+    "Times_Published": "1",
+    "Publishing": false,
     "Paused": false,
     "Status": "active",
-    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551"
+    "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551",
+    "Last_Pin_ID": "636626097371931564"
   },
   {
     "ART_ID": "ArcanumMagnum",
