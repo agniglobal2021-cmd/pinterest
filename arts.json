@@ -59,7 +59,7 @@
     "Last_Crop_Used": "4",
     "Times_Published": "3",
     "Publishing": false,
-    "Paused": false,
+    "Paused": true,
     "Status": "active",
     "Pinterest_Board_IDs": "636626166016718768,636626166017052554,636626166016383489,636626166015868551",
     "Last_Pin_ID": "636626097372209550"
